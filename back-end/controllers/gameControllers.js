@@ -1,9 +1,7 @@
 import { userModel, problemModel } from '../models/gameModels.js';
 
 let looking_to_play = [];
-let match_found = {
-
-};
+let match_found = {};
 
 // function taking request to play and sending back confirmation of request
 
